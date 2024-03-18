@@ -12,7 +12,7 @@ Zhengyi Zhao,
 [Liefeng Bo](https://research.cs.washington.edu/istc/lfb/),
 [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
 
-<video src='./asset/project_head_video.mp4' width=180/>
+<video src=".\asset\peoject_head_video.mp4" alt="VideoMV" style="zoom:200%;" />
 
 ## [Project page](https://aigc3d.github.io/VideoMV) | [Paper](https://arxiv.org/abs/2311.16918) | [YouTube](https://www.youtube.com/watch?v=zxjX5p0p0Ks) | [3D Rendering Dataset](https://aigc3d.github.io/gobjaverse)
 
