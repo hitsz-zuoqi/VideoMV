@@ -1,4 +1,7 @@
-Our official Code has been released at https://github.com/alibaba/VideoMV, this repo will be deprecated~
+# Our official Code has been released at https://github.com/alibaba/VideoMV, this repo will be deprecated~
+
+
+
 
 ## VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model.
 
